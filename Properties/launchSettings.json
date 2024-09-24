@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "newappconfig123fa": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7256",
+      "launchBrowser": false
+    }
+  }
+}
